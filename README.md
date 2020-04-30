@@ -6,11 +6,11 @@ Here we outline how to transform a data collection of genes (observed in expirem
 
 ***
 
-# Deployment Instructions
+<h2 align="center"> Deployment Instructions </h2>
 
-## 1. Utilize Ensemble to transform genes into Undirected Graph
+### 1. Utilize Ensemble to transform genes into Undirected Graph
 
 Transform input data (`modi_data.txt` and `Modi_expression_rma.txt`) into MxN data matrix, with genes in rows, expirements in columns
 `Use parse_modi.R in ./src on the above datasets`
 
-## 2.
+### 2. 
