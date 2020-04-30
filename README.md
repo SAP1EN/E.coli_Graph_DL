@@ -43,3 +43,6 @@ Follow steps in the .ipynb located [here](https://github.com/atlascu/E.Coli_Undi
 ![AUC results](https://github.com/atlascu/E.Coli_Undirected_Graph_Deep_Learning/blob/master/data/images/Screenshot_4.png)
 <h4 align="center"> AUC (area under curve) results using various binary operators </h4>
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/atlascu/E.Coli_Undirected_Graph_Deep_Learning/blob/master/data/images/Screenshot_4.png">
+</p>
