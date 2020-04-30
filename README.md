@@ -35,8 +35,12 @@ write.csv(consensus_net,"modi_edgelist.csv", row.names = FALSE)
 
 ### 2. Embed Nodes (node2vec), drop edges, and predict them back using Binary Classifier:
 
-Follow steps in the .ipynb located [here](https://github.com/atlascu/E.Coli_Undirected_Graph_Deep_Learning/blob/master/src/Link_Predicting.ipynb) to do these steps. The results will be an undirected graph representation like this:
+Follow steps in the .ipynb located [here](https://github.com/atlascu/E.Coli_Undirected_Graph_Deep_Learning/blob/master/src/Link_Predicting.ipynb) to do these steps. 
+
+*The results will be an undirected graph representation like this:*
 
 ![E.coli Undirected Graph Representation](https://github.com/atlascu/E.Coli_Undirected_Graph_Deep_Learning/blob/master/data/images/E.coli%20undirected%20graph.png)
+<h4 align="center"> E.coli Undirected Graph Representation </h4>
+
 
 
