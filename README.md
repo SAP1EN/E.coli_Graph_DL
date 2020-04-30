@@ -44,6 +44,7 @@ Follow steps in the .ipynb located [here](https://github.com/atlascu/E.Coli_Undi
 | average | 0.6924       |   0.6676 |
 | L1 | 0.9828       |   0.9763 |
 | L2 | 0.9835       |   0.9785 |
+
 AUC (area under curve) results using various binary operators 
 
 ***
