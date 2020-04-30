@@ -49,7 +49,7 @@ AUC (area under curve) results using various binary operators
 
 ***
 ![E.coli Undirected Graph Representation](https://github.com/atlascu/E.Coli_Undirected_Graph_Deep_Learning/blob/master/data/images/E.coli%20undirected%20graph.png)
-<h4 align="center"> E.coli Undirected Graph Representation </h4>
+<h6 align="center"> E.coli Undirected Graph Representation </h6>
 
 ***
 
