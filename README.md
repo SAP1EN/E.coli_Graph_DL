@@ -27,13 +27,16 @@ modi_genes <- t(modi_genes) # transpose it to match the order of modi_data
 # Write Modi genes to csv file
 write.csv(modi_genes , file = 'data/Modi/modi_genes.csv', row.names = FALSE)
 
-# net <- ensemble_model(data = modi_data, gene_names = modi_genes, clean_data = TRUE)
 net <- ensemble_model(data = modi_data, gene_names = modi_genes, clean_data = TRUE)
 
 # Save DataFrame of edge list to csv file
 write.csv(consensus_net,"modi_edgelist.csv", row.names = FALSE)
 ```
 
-### 2. 
+### 2. Embed Nodes (node2vec), drop edges, and predict them back using Binary Classifier:
+
+Follow steps in the .ipynb located [here](https://github.com/atlascu/E.Coli_Undirected_Graph_Deep_Learning/blob/master/src/Link_Predicting.ipynb) to do these steps. The results will be an undirected graph representation like this:
+
+![E.coli Undirected Graph Representation](https://github.com/atlascu/E.Coli_Undirected_Graph_Deep_Learning/blob/master/data/images/E.coli%20undirected%20graph.png)
 
 
