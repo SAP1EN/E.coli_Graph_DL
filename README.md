@@ -45,7 +45,7 @@ Follow steps in the .ipynb located [here](https://github.com/atlascu/E.Coli_Undi
 | L1 | 0.9828       |   0.9763 |
 | L2 | 0.9835       |   0.9785 |
 
-AUC (area under curve) results using various binary operators 
+AUC (area under curve) results using various binary operators (in our expirement, we dropped 50% of the edge/co-expression connections).
 
 ***
 ![E.coli Undirected Graph Representation](https://github.com/atlascu/E.Coli_Undirected_Graph_Deep_Learning/blob/master/data/images/E.coli%20undirected%20graph.png)
