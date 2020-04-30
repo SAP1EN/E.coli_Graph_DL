@@ -40,10 +40,7 @@ Follow steps in the .ipynb located [here](https://github.com/atlascu/E.Coli_Undi
 ![E.coli Undirected Graph Representation](https://github.com/atlascu/E.Coli_Undirected_Graph_Deep_Learning/blob/master/data/images/E.coli%20undirected%20graph.png)
 <h4 align="center"> E.coli Undirected Graph Representation </h4>
 
-![AUC results](https://github.com/atlascu/E.Coli_Undirected_Graph_Deep_Learning/blob/master/data/images/Screenshot_4.png)
-<h4 align="center"> AUC (area under curve) results using various binary operators </h4>
-
 <p align="center">
-  <img width="400" height="120" src="https://github.com/atlascu/E.Coli_Undirected_Graph_Deep_Learning/blob/master/data/images/Screenshot_4.png">
+  <img width="400" height="100" src="https://github.com/atlascu/E.Coli_Undirected_Graph_Deep_Learning/blob/master/data/images/Screenshot_4.png">
 </p>
 <h4 align="center"> AUC (area under curve) results using various binary operators </h4>
