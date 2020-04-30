@@ -12,6 +12,7 @@ Here we outline how to transform a data collection of genes (observed in expirem
 
 Transform input data (`modi_data.txt` and `Modi_expression_rma.txt`) into MxN data matrix, with genes in rows, expirements in columns.
 
-`parse_modi.R in ./src on the above datasets`
+Step 1. `parse_modi.R in ./src on the above datasets`
 
 ### 2. 
+
