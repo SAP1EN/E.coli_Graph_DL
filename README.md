@@ -41,6 +41,6 @@ Follow steps in the .ipynb located [here](https://github.com/atlascu/E.Coli_Undi
 <h4 align="center"> E.coli Undirected Graph Representation </h4>
 
 <p align="center">
-  <img width="388" height="60" src="https://github.com/atlascu/E.Coli_Undirected_Graph_Deep_Learning/blob/master/data/images/Screenshot_4.png">
+  <img width="330" height="60" src="https://github.com/atlascu/E.Coli_Undirected_Graph_Deep_Learning/blob/master/data/images/Screenshot_4.png">
 </p>
 <h4 align="center"> AUC (area under curve) results using various binary operators </h4>
