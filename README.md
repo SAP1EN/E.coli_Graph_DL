@@ -2,7 +2,7 @@
   
 ***
 
-Here we outline how to transform a data collection of genes (observed in expirements) as well as a gene corpus, into an undirected graph rerepresentation, then drop edges and predict them back using a self-supervised algorithm. This is synonymous to learning how well your model has learned the underlying features in your data. 
+Here we outline how to transform a data collection of genes (observed in expirements) as well as a gene corpus, into an undirected graph rerepresentation, then drop edges and predict them back using a self-supervised algorithm. This is synonymous to learning how well this model has learned the underlying features (co-expressions between genes) from our data. 
 
 ***
 
@@ -45,7 +45,7 @@ Follow steps in the .ipynb located [here](https://github.com/atlascu/E.Coli_Undi
 | L1 | 0.9828       |   0.9763 |
 | L2 | 0.9835       |   0.9785 |
 
-AUC (area under curve) results using various binary operators (in our expirement, we dropped 50% of the edge/co-expression connections).
+AUC (area under curve) results using various binary operators (in our expirement, we dropped 50% of the edge/co-expression connections). In conclusion, we were able to predict back a majority of the edges with exceptionally high fidelity (>0.95 in most cases).
 
 ***
 ![E.coli Undirected Graph Representation](https://github.com/atlascu/E.Coli_Undirected_Graph_Deep_Learning/blob/master/data/images/E.coli%20undirected%20graph.png)
