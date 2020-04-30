@@ -37,18 +37,18 @@ write.csv(consensus_net,"modi_edgelist.csv", row.names = FALSE)
 
 Follow steps in the .ipynb located [here](https://github.com/atlascu/E.Coli_Undirected_Graph_Deep_Learning/blob/master/src/Link_Predicting.ipynb) to do these steps. 
 ***
-![E.coli Undirected Graph Representation](https://github.com/atlascu/E.Coli_Undirected_Graph_Deep_Learning/blob/master/data/images/E.coli%20undirected%20graph.png)
-<h4 align="center"> E.coli Undirected Graph Representation </h4>
 
-***
-<center>
 |                  | Train     | Test  |
 | :-------------:  |:-------------:| -----:|
 | hadamard | 0.9767 | 0.9702 |
 | average | 0.6924       |   0.6676 |
 | L1 | 0.9828       |   0.9763 |
 | L2 | 0.9835       |   0.9785 |
-</center>
-<h4 align="center"> AUC (area under curve) results using various binary operators </h4>
+AUC (area under curve) results using various binary operators 
 
 ***
+![E.coli Undirected Graph Representation](https://github.com/atlascu/E.Coli_Undirected_Graph_Deep_Learning/blob/master/data/images/E.coli%20undirected%20graph.png)
+<h4 align="center"> E.coli Undirected Graph Representation </h4>
+
+***
+
